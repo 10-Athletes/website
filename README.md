@@ -1,2 +1,2 @@
 # website
-main website for 10 Athletes hosted on ghpages
+main website for 10 Athletes hosted on gh pages
