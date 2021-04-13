@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+    height:100%;
+    width:100vw;
+}
+main {
+    position:fixed;
+    right:0;
+    background-position: center center;
+    background-size:cover;
+    height:100vh;
+    width:100%;
+    background-color:#000;
+}
